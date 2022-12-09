@@ -1,6 +1,7 @@
 # ConReader
 
 Code for our EMNLP 2022 paper,
+
 **ConReader: Exploring Implicit Relations in Contracts for Contract Clause Extraction**
 
 Weiwen Xu, Yang Deng, Wenqiang Lei, Wenlong Zhao, Tat-Seng Chua, Wai Lam
@@ -39,4 +40,4 @@ If you find this work useful, please star this repo and cite our paper as follow
   journal={arXiv preprint arXiv:2210.08697},
   year={2022}
 }
-```# ConReader
+```
